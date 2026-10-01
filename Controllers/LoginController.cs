@@ -29,6 +29,7 @@ namespace EnvioEmail.Controllers
 
                     if (usuarioExistente != null)
                     {
+                        HttpContext.Session.SetInt32("UsuarioId", usuarioExistente.Id);
                         return View("~/Views/Home/Index.cshtml", usuarioExistente);
                     }
                     else
