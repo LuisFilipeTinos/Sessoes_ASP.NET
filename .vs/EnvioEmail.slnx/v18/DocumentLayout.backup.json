@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:filters\\usuariologadoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -87,12 +87,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T17:09:47.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T17:09:47.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsuarioLogadoAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Filters\\UsuarioLogadoAttribute.cs",
               "RelativeDocumentMoniker": "Filters\\UsuarioLogadoAttribute.cs",
@@ -100,31 +99,30 @@
               "RelativeToolTip": "Filters\\UsuarioLogadoAttribute.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T16:44:43.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T16:44:43.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T17:08:28.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwDkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T16:57:55.006Z",
               "EditorCaption": ""
@@ -143,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_LayoutDeslogado.cshtml",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_LayoutDeslogado.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutDeslogado.cshtml",
@@ -155,15 +153,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T16:47:03.652Z"
+              "WhenOpened": "2026-10-01T16:47:03.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
